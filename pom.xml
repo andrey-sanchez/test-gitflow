@@ -19,6 +19,7 @@
                     <gpgSignCommit>true</gpgSignCommit>
                     <gpgSignTag>true</gpgSignTag>
                     <verbose>true</verbose>
+                    <releaseMergeNoFF>false</releaseMergeNoFF>
                 </configuration>
             </plugin>
         </plugins>
