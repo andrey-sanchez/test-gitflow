@@ -18,6 +18,7 @@
                     <pushRemote>true</pushRemote>
                     <gpgSignCommit>true</gpgSignCommit>
                     <gpgSignTag>true</gpgSignTag>
+                    <verbose>true</verbose>
                 </configuration>
             </plugin>
         </plugins>
