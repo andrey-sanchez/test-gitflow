@@ -6,7 +6,7 @@
 
     <groupId>com.despegar.p13n</groupId>
     <artifactId>test-gitflow</artifactId>
-    <version>1.1</version>
+    <version>1.2-SNAPSHOT</version>
 
     <build>
         <plugins>
@@ -20,6 +20,7 @@
                     <gpgSignTag>true</gpgSignTag>
                     <verbose>true</verbose>
                     <releaseMergeNoFF>false</releaseMergeNoFF>
+                    <releaseMergeFFOnly>true</releaseMergeFFOnly>
                 </configuration>
             </plugin>
         </plugins>
