@@ -21,6 +21,8 @@
                     <verbose>true</verbose>
                     <releaseMergeNoFF>false</releaseMergeNoFF>
                     <releaseMergeFFOnly>true</releaseMergeFFOnly>
+                    <postReleaseGoals>deploy</postReleaseGoals>
+                    <postHotfixGoals>deploy</postHotfixGoals>
                 </configuration>
             </plugin>
         </plugins>
