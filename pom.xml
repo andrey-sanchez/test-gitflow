@@ -20,6 +20,7 @@
                     <gpgSignTag>true</gpgSignTag>
                     <verbose>true</verbose>
                     <releaseMergeNoFF>false</releaseMergeNoFF>
+                    <releaseMergeFFOnly>true</releaseMergeFFOnly>
                 </configuration>
             </plugin>
         </plugins>
