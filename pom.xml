@@ -6,7 +6,7 @@
 
     <groupId>com.despegar.p13n</groupId>
     <artifactId>test-gitflow</artifactId>
-    <version>1.6-SNAPSHOT</version>
+    <version>1.6</version>
 
     <build>
         <plugins>
